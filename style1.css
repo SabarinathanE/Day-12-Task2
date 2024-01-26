@@ -1,0 +1,19 @@
+.main label:after{
+content:" *";
+color:red;
+
+}
+.last{
+display: inline;
+}
+label:after{
+    content: " *";
+    color:red;
+    
+}
+.in input[type="text"]{
+    width: 390px;
+}
+tr{
+    width: 10px;
+}
